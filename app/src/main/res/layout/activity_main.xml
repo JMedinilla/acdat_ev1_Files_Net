@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/Ejercicio1"
+        android:text="Ejercicio 1"
+        android:layout_gravity="center"
+        android:textSize="30dp"
+        android:layout_width="250dp"
+        android:layout_height="80dp" />
+
+    <Button
+        android:id="@+id/Ejercicio2"
+        android:text="Ejercicio 2"
+        android:layout_gravity="center"
+        android:textSize="30dp"
+        android:layout_width="250dp"
+        android:layout_height="80dp" />
+
+    <Button
+        android:id="@+id/Ejercicio3"
+        android:text="Ejercicio 3"
+        android:layout_gravity="center"
+        android:textSize="30dp"
+        android:layout_width="250dp"
+        android:layout_height="80dp" />
+
+    <Button
+        android:id="@+id/Ejercicio4"
+        android:text="Ejercicio 4"
+        android:layout_gravity="center"
+        android:textSize="30dp"
+        android:layout_width="250dp"
+        android:layout_height="80dp" />
+
+    <Button
+        android:id="@+id/Ejercicio5"
+        android:text="Ejercicio 5"
+        android:layout_gravity="center"
+        android:textSize="30dp"
+        android:layout_width="250dp"
+        android:layout_height="80dp" />
+
+    <Button
+        android:id="@+id/Ejercicio6"
+        android:text="Ejercicio 6"
+        android:layout_gravity="center"
+        android:textSize="30dp"
+        android:layout_width="250dp"
+        android:layout_height="80dp" />
+
+</LinearLayout>
